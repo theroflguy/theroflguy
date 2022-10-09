@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100"/>
 </div>
+
+
 
 
 I am a data science enthusiast with experience in doing mini projects with the help of Python programming. I am well aware with supervised and unsupervised machine learning techniques. I am currently on a learning path to Artificial Intelligence and Deep Learning, which I have found myself gravitating to.

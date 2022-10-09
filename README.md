@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Manjunath GB</h1>
 
+<h3 align="center">An aspiring programmer.</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theroflguy" alt="theroflguy" /></a> </p>
 
 - 🌱 I’m currently learning **Java & Competitive Programming .**
@@ -12,7 +14,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjunathgb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunathgb/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theroflguy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theroflguy" height="30" width="40" /></a>
-</p>  
+</p> 
+### LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/theroflguy?ext=heatmap)
+[![LeetCode user theroflguy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheroflguy&logo=leetcode&logoColor=yellow)](https://leetcode.com/theroflguy/)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
@@ -31,9 +36,6 @@
   <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100"/>
 </div>
 
-
-### LeetCode
-[![LeetCode user theroflguy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheroflguy&logo=leetcode&logoColor=yellow)](https://leetcode.com/theroflguy/)
 
 
 

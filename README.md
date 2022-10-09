@@ -26,29 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theroflguy&show_icons=true&locale=en&layout=compact" alt="theroflguy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theroflguy&show_icons=true&locale=en" alt="theroflguy" /></p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/theroflguy?theme=unicorn&font=Baloo%20Bhai%202&ext=activity)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theroflguy&" alt="theroflguy" /></p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100"/>
-</div>
 
 
-
-[![LeetCode user theroflguy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheroflguy&logo=leetcode&logoColor=yellow)](https://leetcode.com/theroflguy/)
-
-
-I am a data science enthusiast with experience in doing mini projects with the help of Python programming. I am well aware with supervised and unsupervised machine learning techniques. I am currently on a learning path to Artificial Intelligence and Deep Learning, which I have found myself gravitating to.
-
-Spectrum of skillsets:
-1. Data Analysis, provide insights and provide necessary recommendations
-2. Data preprocessing and Data Visualization using suitable plots, graphs, and tree diagrams
-3. Proficiency in Data mining techniques such as Classifications, Regression, Principal Component Analysis (PCA), Association rules, recommendation Systems, and Cluster analysis
-4. Proficiency in building ML models (Regression, Logistic Classifier, Decision tree, KNN, SVM, Naïve Bayes, Random forest, Gradient boosting algorithms ).
-5. Proficiency in Python Programming for ML Algorithms using libraries like NumPy, Pandas, Stats model, Matplotlib, Seaborn, Sklearn, Tensorflow,
-6. Time series analysis and building models based on the scenario to forecast the business interests
-7. Text mining, Sentiment analysis, and Emotion Mining
-8. Knowledge of Deep learning methodologies
-9. Good Domain knowledge in the Electronics industry.
-
-Also, I am pursuing my Bachelor's Degree in Electronics and Telecommunications Engineering.
+![LeetCode Stats](https://leetcard.jacoblin.cool/theroflguy?theme=unicorn&font=Baloo%20Bhai%202&ext=activity)

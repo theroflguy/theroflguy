@@ -15,8 +15,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manjunathgb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manjunathgb/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theroflguy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theroflguy" height="30" width="40" /></a>
 </p> 
-![LeetCode Stats](https://leetcard.jacoblin.cool/theroflguy?theme=unicorn&font=Baloo%20Bhai%202&ext=activity)
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
@@ -28,14 +26,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theroflguy&show_icons=true&locale=en&layout=compact" alt="theroflguy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theroflguy&show_icons=true&locale=en" alt="theroflguy" /></p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/theroflguy?theme=unicorn&font=Baloo%20Bhai%202&ext=activity)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theroflguy&" alt="theroflguy" /></p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" width="100"/>
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/theroflguy?ext=heatmap)
+
 
 [![LeetCode user theroflguy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheroflguy&logo=leetcode&logoColor=yellow)](https://leetcode.com/theroflguy/)
 

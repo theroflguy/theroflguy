@@ -8,6 +8,7 @@
 [![LeetCode user theroflguy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftheroflguy&logo=leetcode&logoColor=yellow)](https://leetcode.com/theroflguy/)
 
 [![trophy](https://github-profile-trophy.vercel.app/theroflguyryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/theroflguyryo-ma&theme=flat
 
 I am a data science enthusiast with experience in doing mini projects with the help of Python programming. I am well aware with supervised and unsupervised machine learning techniques. I am currently on a learning path to Artificial Intelligence and Deep Learning, which I have found myself gravitating to.
 
